@@ -169,6 +169,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/netmux.ko:/system/lib/modules/netmux.ko \
     vendor/motorola/umts_sholes/proprietary/netmux_linkdriver.ko:/system/lib/modules/netmux_linkdriver.ko \
     vendor/motorola/umts_sholes/proprietary/nvm_daemon:/system/bin/nvm_daemon \
+    vendor/motorola/umts_sholes/proprietary/Mynet.apk:/system/app/Mynet.apk \
     vendor/motorola/umts_sholes/proprietary/opprofdaemon:/system/bin/opprofdaemon \
     vendor/motorola/umts_sholes/proprietary/output.ko:/system/lib/modules/output.ko \
     vendor/motorola/umts_sholes/proprietary/panic_daemon:/system/bin/panic_daemon \
