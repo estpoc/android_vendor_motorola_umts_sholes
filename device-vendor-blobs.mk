@@ -22,9 +22,7 @@ PRODUCT_COPY_FILES := \
     vendor/motorola/umts_sholes/proprietary/libcamera.so:obj/lib/libcamera.so \
     vendor/motorola/umts_sholes/proprietary/libgps.so:obj/lib/libgps.so \
     vendor/motorola/umts_sholes/proprietary/liboemcamera.so:obj/lib/liboemcamera.so \
-    vendor/motorola/umts_sholes/proprietary/libril-moto-umts-1.so:obj/lib/libril-moto-umts-1.so \
-    vendor/motorola/umts_sholes/proprietary/lights.sholes.so:obj/lib/hw/lights.sholes.so \
-    vendor/motorola/umts_sholes/proprietary/sensors.sholes.so:obj/lib/hw/sensors.sholes.so
+    vendor/motorola/umts_sholes/proprietary/libril-moto-umts-1.so:obj/lib/libril-moto-umts-1.so
 
 # All the blobs necessary for umts_sholes
 PRODUCT_COPY_FILES += \
@@ -146,7 +144,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/libtpa.so:/system/lib/libtpa.so \
     vendor/motorola/umts_sholes/proprietary/libWifiAPHardware.so:/system/lib/libWifiAPHardware.so \
     vendor/motorola/umts_sholes/proprietary/libWifiAPNativeJni.so:/system/lib/libWifiAPNativeJni.so \
-    vendor/motorola/umts_sholes/proprietary/lights.sholes.so:/system/lib/hw/lights.sholes.so \
     vendor/motorola/umts_sholes/proprietary/location.cfg:/system/etc/location.cfg \
     vendor/motorola/umts_sholes/proprietary/location:/system/bin/location \
     vendor/motorola/umts_sholes/proprietary/logfilter-get:/system/bin/logfilter-get \
@@ -194,7 +191,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/Secclkd.apk:/system/app/Secclkd.apk \
     vendor/motorola/umts_sholes/proprietary/secclkd:/system/bin/secclkd \
     vendor/motorola/umts_sholes/proprietary/sec.ko:/system/lib/modules/sec.ko \
-    vendor/motorola/umts_sholes/proprietary/sensors.sholes.so:/system/lib/hw/sensors.sholes.so \
     vendor/motorola/umts_sholes/proprietary/sholesp0b-keypad.kcm.bin:/system/usr/keychars/sholesp0b-keypad.kcm.bin \
     vendor/motorola/umts_sholes/proprietary/sholesp0b-keypad.kl:/system/usr/keylayout/sholesp0b-keypad.kl \
     vendor/motorola/umts_sholes/proprietary/sholesp1a-keypad.kcm.bin:/system/usr/keychars/sholesp1a-keypad.kcm.bin \
