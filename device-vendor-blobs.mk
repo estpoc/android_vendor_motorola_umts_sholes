@@ -106,7 +106,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/libdmengine.so:/system/lib/libdmengine.so \
     vendor/motorola/umts_sholes/proprietary/libdmjavaplugin.so:/system/lib/libdmjavaplugin.so \
     vendor/motorola/umts_sholes/proprietary/libEGL_POWERVR_SGX530_121.so:/system/lib/egl/libEGL_POWERVR_SGX530_121.so \
-    vendor/motorola/umts_sholes/proprietary/libgki.so:/system/lib/libgki.so \
     vendor/motorola/umts_sholes/proprietary/libGLESv1_CM_POWERVR_SGX530_121.so:/system/lib/egl/libGLESv1_CM_POWERVR_SGX530_121.so \
     vendor/motorola/umts_sholes/proprietary/libGLESv2_POWERVR_SGX530_121.so:/system/lib/egl/libGLESv2_POWERVR_SGX530_121.so \
     vendor/motorola/umts_sholes/proprietary/libglslcompiler.so:/system/lib/libglslcompiler.so \
@@ -203,7 +202,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/sholesp2a-keypad.kl:/system/usr/keylayout/sholesp2a-keypad.kl \
     vendor/motorola/umts_sholes/proprietary/sholesp2a-keypad-russian.kcm.bin:/system/usr/keychars/sholesp2a-keypad-russian.kcm.bin \
     vendor/motorola/umts_sholes/proprietary/ssmgrd:/system/xbin/ssmgrd \
-    vendor/motorola/umts_sholes/proprietary/tcmd:/system/bin/tcmd \
     vendor/motorola/umts_sholes/proprietary/tiap_drv.ko:/system/lib/modules/tiap_drv.ko \
     vendor/motorola/umts_sholes/proprietary/tiwlan_ap.ini:/system/etc/wifi/tiwlan_ap.ini \
     vendor/motorola/umts_sholes/proprietary/tiwlan_drv.ko:/system/lib/modules/tiwlan_drv.ko \
