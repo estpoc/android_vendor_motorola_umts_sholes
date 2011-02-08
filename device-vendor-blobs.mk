@@ -125,14 +125,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/libmtpstack.so/:/system/lib/libmtpstack.so \
     vendor/motorola/umts_sholes/proprietary/libMynetNativeJni.so:/system/lib/libMynetNativeJni.so \
     vendor/motorola/umts_sholes/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
-    vendor/motorola/umts_sholes/proprietary/libomx_wmadec_sharedlibrary.so:/system/lib/libomx_wmadec_sharedlibrary.so \
-    vendor/motorola/umts_sholes/proprietary/libomx_wmvdec_sharedlibrary.so:/system/lib/libomx_wmvdec_sharedlibrary.so \
-    vendor/motorola/umts_sholes/proprietary/libopencore_asflocalreg.so:/system/lib/libopencore_asflocalreg.so \
-    vendor/motorola/umts_sholes/proprietary/libopencore_asflocal.so:/system/lib/libopencore_asflocal.so \
     vendor/motorola/umts_sholes/proprietary/libpppd_plugin.so:/system/lib/libpppd_plugin.so \
-    vendor/motorola/umts_sholes/proprietary/libpvasfcommon.so:/system/lib/libpvasfcommon.so \
-    vendor/motorola/umts_sholes/proprietary/libpvasflocalpbreg.so:/system/lib/libpvasflocalpbreg.so \
-    vendor/motorola/umts_sholes/proprietary/libpvasflocalpb.so:/system/lib/libpvasflocalpb.so \
     vendor/motorola/umts_sholes/proprietary/libpvr2d.so:/system/lib/libpvr2d.so \
     vendor/motorola/umts_sholes/proprietary/libpvrANDROID_WSEGL.so:/system/lib/libpvrANDROID_WSEGL.so \
     vendor/motorola/umts_sholes/proprietary/libril-moto-umts-1.so:/system/lib/libril-moto-umts-1.so \
@@ -178,7 +171,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/ProgramMenu.apk:/system/app/ProgramMenu.apk \
     vendor/motorola/umts_sholes/proprietary/ProgramMenuSystem.apk:/system/app/ProgramMenuSystem.apk \
     vendor/motorola/umts_sholes/proprietary/protocol_driver:/system/bin/protocol_driver \
-    vendor/motorola/umts_sholes/proprietary/pvasflocal.cfg:/system/etc/pvasflocal.cfg \
     vendor/motorola/umts_sholes/proprietary/pvrsrvinit:/system/bin/pvrsrvinit \
     vendor/motorola/umts_sholes/proprietary/qwerty2.kcm.bin:/system/usr/keychars/qwerty2.kcm.bin \
     vendor/motorola/umts_sholes/proprietary/qwerty.kcm.bin:/system/usr/keychars/qwerty.kcm.bin \
@@ -214,8 +206,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/umts_sholes/proprietary/wl1271.bin:/system/etc/firmware/wl1271.bin \
     vendor/motorola/umts_sholes/proprietary/wl127x_test.ko:/system/lib/modules/wl127x_test.ko \
     vendor/motorola/umts_sholes/proprietary/wl127x-test.ko:/system/lib/modules/wl127x-test.ko \
-    vendor/motorola/umts_sholes/proprietary/wmadec_sn.dll64P:/system/lib/dsp/wmadec_sn.dll64P \
-    vendor/motorola/umts_sholes/proprietary/wmv9dec_sn.dll64P:/system/lib/dsp/wmv9dec_sn.dll64P \
     vendor/motorola/umts_sholes/proprietary/wpa_supplicant.conf:/system/etc/wifi/wpa_supplicant.conf
 
 
